@@ -18,4 +18,9 @@ print(resultado)
 
 final = nombre + " " + str(numero2)
 print(final)
+print (f"Hola {nombre} cuantos años tienes? {numero2}")
 
+print ("Sebastian" in final)
+print ("aula" in final)
+print ("Seba" in final)
+print ("i" in bienvenida)
